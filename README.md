@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudy Paolo</h1>
 
-
-- 🔭 I’m currently working on [Koala Home](https://koala.com.pe)
-
 - 🌱 I am a systems engineer broadly interested in data-centric systems, currently specializing in Big Data Management at UPC Barcelona Tech.
 
 - 📫 How to reach me **rpaolope@gmail.com**

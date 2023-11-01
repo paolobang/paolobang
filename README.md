@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Koala Home](https://koala.com.pe)
 
-- 🌱 I’m currently learning **Full Stack Development with MERN**
+- 🌱 I am a systems engineer broadly interested in data-centric systems, currently specializing in Big Data Management at UPC Barcelona Tech.
 
-- 📫 How to reach me **pesorudy@gmail.com**
+- 📫 How to reach me **rpaolope@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rudyhuaman/](https://www.linkedin.com/in/rudyhuaman/)
 
